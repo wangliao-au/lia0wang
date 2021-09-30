@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @lia0wang a second year undergraduate from UNSW, a self-learner
-- 👀 I’m interested in gaming, body-building, I shake my protein powder everyday
-- 🌱 I’m currently learning:
-HTML & CSS Design and Build Websites__
-JAVASCRIPT &JQUERY Interactive Front-End Web Development__
-PYTHON CRASH COURSE__
-Algorithm in C__
+- 👀 I’m interested in gaming, body-building, I shake my protein powder everyday xD
+- 🌱 I’m currently self-learning: algorithm in C, python, html & css, javascript & jquery...
 - 💞️ I’m looking for an internship in Shanghai, China from 01/01/2022.
 - 📫 How to reach me -> z5306312@outlook.com
 
