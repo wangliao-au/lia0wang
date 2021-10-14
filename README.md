@@ -5,6 +5,7 @@
 # 🌱  What am i doing
 - Learning html & css, javascript & jquery for building my own website
 - Learning python for backend
+- Developing some simple games with godot engine.
 - Reviewing algorithms for interview
 # 💞️  What am I looking for
 - I’m looking for an internship in Shanghai, China from 01/01/2022
