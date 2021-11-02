@@ -10,7 +10,7 @@
 # 💞️  What am I looking for
 - I’m looking for an internship in Shanghai, China from 01/01/2022
 # 📫  How to contact me
-- email: z5306312@outlook.com
+- email: lia0wang@outlook.com
 
 <!---
 lia0wang/lia0wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
