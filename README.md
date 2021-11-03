@@ -1,5 +1,5 @@
 # 👋  Who am I
-- Hi, I’m @lia0wang a second year undergraduate from UNSW, a self-learner
+- Hi, I’m @lia0wang a 2nd year undergraduate from UNSW, a self-learner
 # 👀  What do I like to do
 - Gaming, body-building, I shake my protein powder everyday xD
 # 🌱  What am i doing
