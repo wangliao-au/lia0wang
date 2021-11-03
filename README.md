@@ -4,8 +4,8 @@
 - Gaming, body-building, I shake my protein powder everyday xD
 # 🌱  What am i doing
 - Learning html & css, javascript & jquery for building my own website
-- Learning python for backend
-- Developing some simple games with godot engine.
+- Learning python for backend web scraping
+- Developing some simple games with godot engine
 - Reviewing algorithms for interview
 # 💞️  What am I looking for
 - I’m looking for an internship in Shanghai, China from 01/01/2022
