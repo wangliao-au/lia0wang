@@ -8,7 +8,7 @@
 - Developing some simple games with godot engine
 - Reviewing algorithms for interview
 # 💞️  What am I looking for
-- I’m looking for an internship in Shanghai, China from 01/01/2022
+- I’m looking for an internship in Shanghai, China from 15/01/2022
 # 📫  How to contact me
 - email: lia0wang@outlook.com
 
