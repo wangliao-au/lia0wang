@@ -4,7 +4,7 @@
 
 <!-- <p align="center" width="150px"> I am a 2nd year CompSci undergraduate and also doing a Software Engineer internship. <br>I like doing workout in the gym and coding.</p> -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=E157DC&lines=Undergraduate+at+UNSW;Software+QA+Engineer+at+QAD;Body+Builder">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=2000&color=E157DC&lines=Undergraduate+at+UNSW;Software+QA+Engineer+at+QAD;Body+Builder">
 </p>
 
 <br>
@@ -61,8 +61,3 @@
 <a href="https://www.linkedin.com/in/wang-liao-280571213/"><img src="https://img.shields.io/badge/-Wang%20Liao-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/lia0wang"><img src="https://img.shields.io/badge/-lia0wang-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
-
-<br>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
