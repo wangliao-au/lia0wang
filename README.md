@@ -12,18 +12,19 @@
 <p align="center"><b>Visitor's Count</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge"/></p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lia0wang&layout=compact&hide=TSQL&theme=chartreuse-dark" width="50%" height="100% align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lia0wang&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="50%" height="100%" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lia0wang&theme=chartreuse-dark" width="50%" height="100%" align="right">
+### 📈 &nbsp;My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://lia0wang.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lia0wang&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lia0wang&theme=gruvbox&hide_border=true" />
+  </a>
 </p>
-
-<p><img align="right" src="animation.gif" alt="adam-pw"></p>
-
 <br>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+
+[![Wang Liao' Activity Graph](https://activity-graph.herokuapp.com/graph?username=lia0wang&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://lia0wang.dev)
+
 
 ### 🛠 &nbsp;Tech Stack
 
