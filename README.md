@@ -1,10 +1,9 @@
-<p align="center"><img src="header.png"></p>
+<p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Wang+Liao+%3C3;I'+am+a+2nd+yr+Undergraduate+at+UNSW;I'+am+a+Software+QA+Engineer+at+QAD;Welcome+to+my+profile+!">
 </p>
 
-<br>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -12,7 +11,6 @@
 <p align="center"><b>Visitor's Count</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge"/></p>
 
-<br>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -30,7 +28,6 @@
 
 [![Wang Liao' Activity Graph](https://activity-graph.herokuapp.com/graph?username=lia0wang&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://lia0wang.dev)
 
-<br>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -61,12 +58,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### :link: &nbsp;Connect with me
 
