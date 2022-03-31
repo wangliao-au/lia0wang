@@ -1,7 +1,5 @@
 <p align="center"><img src="header.png"></p>
 
-<h1 align="center">Hi <img src="Hi.gif" width="30px">, I am Wang Liao </h1>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Wang+Liao+%3C3;I'+am+a+2nd+yr+Undergraduate+at+UNSW;I'+am+a+Software+QA+Engineer+at+QAD;Welcome+to+my+profile+!">
 </p>
@@ -11,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><b>Visitor's Count</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lia0wang&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=lia0wang&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
