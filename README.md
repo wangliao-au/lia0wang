@@ -13,12 +13,12 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge"/></p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lia0wang&layout=compact&hide=TSQL&theme=chartreuse-dark">
-<img src="https://github-readme-stats.vercel.app/api?username=lia0wang&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lia0wang&layout=compact&hide=TSQL&theme=chartreuse-dark" width="50%" height="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=lia0wang&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="50%" height="100%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=lia0wang&theme=chartreuse-dark">
 </p>
 
-<p><img align="right" src="animation.gif" alt="adam-pw" /></p>
+<p><img align="right" src="animation.gif" alt="adam-pw"></p>
 
 <br>
 <p  align="center">
