@@ -2,9 +2,8 @@
 
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I am Wang Liao </h1>
 
-<!-- <p align="center" width="150px"> I am a 2nd year CompSci undergraduate and also doing a Software Engineer internship. <br>I like doing workout in the gym and coding.</p> -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=2000&color=E157DC&lines=Undergraduate+at+UNSW;Software+QA+Engineer+at+QAD;Body+Builder">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2000&color=%2338C2FF&size=50&height=60&width=600&lines=Heyyy!+I'm+Wang+Liao+%3C3;I'+am+a+2nd+yr+Undergraduate+at+UNSW;I'+am+a+Software+QA+Engineer+at+QAD;Welcome+to+my+profile+!">
 </p>
 
 <br>
@@ -53,6 +52,8 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### :link: &nbsp;Connect with me
 
