@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### 📈 &nbsp;My Statistics
+### 📈 &nbsp;Contribution Statistics
 
 <br/>
 <p align="left">
@@ -55,7 +55,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### :link: &nbsp;Connect with me
+### :link: &nbsp;Contact Info
 
 <p align="center">
 <a href="https://lia0wang.com/"><img src="https://img.shields.io/badge/-lia0wang.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
