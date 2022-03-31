@@ -13,13 +13,13 @@
 <br/>
 <p align="left">
   <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lia0wang&show_icons=true&theme=github_dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lia0wang&theme=github_dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lia0wang&show_icons=true&theme=omni&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lia0wang&theme=omni&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Wang Liao' Activity Graph](https://activity-graph.herokuapp.com/graph?username=lia0wang&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=github_dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://lia0wang.dev)
+[![Wang Liao' Activity Graph](https://activity-graph.herokuapp.com/graph?username=lia0wang&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=omni&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://lia0wang.dev)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
