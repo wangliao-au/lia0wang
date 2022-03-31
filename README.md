@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I am Wang Liao </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2000&color=%2338C2FF&size=50&height=60&width=600&lines=Heyyy!+I'm+Wang+Liao+%3C3;I'+am+a+2nd+yr+Undergraduate+at+UNSW;I'+am+a+Software+QA+Engineer+at+QAD;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2000&color=%2338C2FF&size=40&height=500&width=1600&lines=Heyyy!+I'm+Wang+Liao+%3C3;I'+am+a+2nd+yr+Undergraduate+at+UNSW;I'+am+a+Software+QA+Engineer+at+QAD;Welcome+to+my+profile+!">
 </p>
 
 <br>
