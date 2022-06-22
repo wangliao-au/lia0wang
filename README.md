@@ -63,6 +63,6 @@
 <a href="https://github.com/lia0wang"><img src="https://img.shields.io/badge/-lia0wang-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
 
-<p align="center"><b>Profile Visitor Count</b>
-<img align="center" src="Hi.gif" width="15px"></p>
+<p align="center"><b>Profile Visitor Count</b></p>
+<img align="center" src="Hi.gif" width="15px">
 <p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge" width="30%"></p>
