@@ -64,5 +64,5 @@
 </p>
 
 <p align="center"><b>Profile Visitor Count</b>
-<img align="center" src="Hi.gif" width="30px"></p>
+<img align="center" src="Hi.gif" width="15px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge" width="30%"></p>
